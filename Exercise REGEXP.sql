@@ -1,4 +1,4 @@
-SELECT *
+SELECT * 
 FROM customers
 -- WHERE first_name regexp 'ELKA|AMBUR'
 -- WHERE last_name REGEXP 'EY$|ON$'
